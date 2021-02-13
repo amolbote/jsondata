@@ -81,28 +81,28 @@
    "lessons": {
       "1": {
          "id": 1,
-         "description": "Angular Tutorial For Beginners - Build Your First App",
+         "description": "Angular Tutorial For Beginners",
          "duration": "4:17",
          "seqNo": 1,
          "courseId": 1
       },
       "2": {
          "id": 2,
-         "description": "Building Your First  Component - Component Composition",
+         "description": "Building Your First  Component",
          "duration": "2:07",
          "seqNo": 2,
          "courseId": 1
       },
       "3": {
          "id": 3,
-         "description": "Component @Input - How To Pass Input Data To an  Component",
+         "description": "Component @Input",
          "duration": "2:33",
          "seqNo": 3,
          "courseId": 1
       },
       "4": {
          "id": 4,
-         "description": " Component Events - Using @Output to create custom events",
+         "description": " Component Events",
          "duration": "4:44",
          "seqNo": 4,
          "courseId": 1
@@ -116,35 +116,35 @@
       },
       "6": {
          "id": 6,
-         "description": "Styling  Components - Learn About Component Style Isolation",
+         "description": "Styling  Components ",
          "duration": "3:27",
          "seqNo": 6,
          "courseId": 1
       },
       "7": {
          "id": 7,
-         "description": " Component Interaction - Extended Components Example",
+         "description": " Component Interaction ",
          "duration": "9:22",
          "seqNo": 7,
          "courseId": 1
       },
       "8": {
          "id": 8,
-         "description": " Components Tutorial For Beginners - Components Exercise !",
+         "description": " Components Tutorial For Beginners",
          "duration": "1:26",
          "seqNo": 8,
          "courseId": 1
       },
       "9": {
          "id": 9,
-         "description": " Components Tutorial For Beginners - Components Exercise Solution Inside",
+         "description": " Components Tutorial For Beginners",
          "duration": "2:08",
          "seqNo": 9,
          "courseId": 1
       },
       "10": {
          "id": 10,
-         "description": " Directives - Inputs, Output Event Emitters and How To Export Template References",
+         "description": " Directives - Inputs, Output Event Emitters",
          "duration": "4:01",
          "seqNo": 10,
          "courseId": 1
@@ -158,14 +158,14 @@
       },
       "12": {
          "id": 12,
-         "description": "Installing Git, Node, NPM and Choosing an IDE",
+         "description": "Installing Git, Node, NPM and IDE",
          "duration": "04:17",
          "seqNo": 2,
          "courseId": 2
       },
       "13": {
          "id": 13,
-         "description": "Installing The Lessons Code - Learn Why Its Essential To Use NPM 5",
+         "description": "Installing The Lessons Code",
          "duration": "06:05",
          "seqNo": 3,
          "courseId": 2
@@ -179,28 +179,28 @@
       },
       "15": {
          "id": 15,
-         "description": "Guided Tour Of The Sample Application",
+         "description": "The Sample Application",
          "duration": "06:00",
          "seqNo": 5,
          "courseId": 2
       },
       "16": {
          "id": 16,
-         "description": "Client Side Authentication Service - API Design",
+         "description": "Client Side Auth Service",
          "duration": "04:53",
          "seqNo": 6,
          "courseId": 2
       },
       "17": {
          "id": 17,
-         "description": "Client Authentication Service - Design and Implementation",
+         "description": "Client Auth Service",
          "duration": "09:14",
          "seqNo": 7,
          "courseId": 2
       },
       "18": {
          "id": 18,
-         "description": "The New Angular HTTP Client - Doing a POST Call To The Server",
+         "description": "The New Angular HTTP Client",
          "duration": "06:08",
          "seqNo": 8,
          "courseId": 2
@@ -214,98 +214,98 @@
       },
       "20": {
          "id": 20,
-         "description": "Introduction To Cryptographic Hashes - A Running Demo",
+         "description": "Cryptographic Hashes Demo",
          "duration": "05:46",
          "seqNo": 10,
          "courseId": 2
       },
       "21": {
          "id": 21,
-         "description": "Some Interesting Properties Of Hashing Functions - Validating Passwords",
+         "description": "Hashing Functions - Validating Passwords",
          "duration": "06:31",
          "seqNo": 11,
          "courseId": 2
       },
       "22": {
          "id": 22,
-         "description": "Course Kick-Off - Install Node, NPM, IDE And Service Workers Section Code",
+         "description": "Course Kick-Off",
          "duration": "07:19",
          "seqNo": 1,
          "courseId": 3
       },
       "23": {
          "id": 23,
-         "description": "Service Workers In a Nutshell - Service Worker Registration",
+         "description": "Service Workers In a Nutshell",
          "duration": "6:59",
          "seqNo": 2,
          "courseId": 3
       },
       "24": {
          "id": 24,
-         "description": "Service Workers Hello World - Lifecycle Part 1 and PWA Chrome Dev Tools",
+         "description": "Service Workers Intro",
          "duration": "7:28",
          "seqNo": 3,
          "courseId": 3
       },
       "25": {
          "id": 25,
-         "description": "Service Workers and Application Versioning - Install & Activate Lifecycle Phases",
+         "description": "Service Workers and Application Versioning",
          "duration": "10:17",
          "seqNo": 4,
          "courseId": 3
       },
       "26": {
          "id": 26,
-         "description": "Downloading The Offline Page - The Service Worker Installation Phase",
+         "description": "Downloading The Offline Page",
          "duration": "09:50",
          "seqNo": 5,
          "courseId": 3
       },
       "27": {
          "id": 27,
-         "description": "Introduction to the Cache Storage PWA API",
+         "description": "Cache Storage PWA API",
          "duration": "04:44",
          "seqNo": 6,
          "courseId": 3
       },
       "28": {
          "id": 28,
-         "description": "View Service Workers HTTP Interception Features In Action",
+         "description": "View Service Workers In Action",
          "duration": "06:07",
          "seqNo": 7,
          "courseId": 3
       },
       "29": {
          "id": 29,
-         "description": "Service Workers Error Handling - Serving The Offline Page",
+         "description": "Service Workers Error Handling",
          "duration": "5:38",
          "seqNo": 8,
          "courseId": 3
       },
       "30": {
          "id": 30,
-         "description": "Welcome to the RxJs In Practice Course",
+         "description": "RxJs In Practice",
          "duration": "4:17",
          "seqNo": 1,
          "courseId": 0
       },
       "31": {
          "id": 31,
-         "description": "Introduction to the  Observable Pattern",
+         "description": "Introduction to the  Observable",
          "duration": "2:07",
          "seqNo": 2,
          "courseId": 0
       },
       "32": {
          "id": 32,
-         "description": "The map and filter RxJs Operators",
+         "description": "The map and filter Operators",
          "duration": "2:33",
          "seqNo": 3,
          "courseId": 0
       },
       "34": {
          "id": 33,
-         "description": "The switchMap, concatMap and mergeMap RxJs Operators",
+         "description": "RxJs Operators",
          "duration": "4:44",
          "seqNo": 4,
          "courseId": 0
